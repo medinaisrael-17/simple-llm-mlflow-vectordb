@@ -1,0 +1,5 @@
+transformers
+faiss
+numpy
+sentence_transformers
+argparse
