@@ -1,1 +1,9 @@
 # Environment spec for MLflow
+name: simple-llm-env
+dependencies:
+  - python=3.10
+  - pip:
+      - tranformers
+      - sentence-tranformers
+      - faiss-cpu
+      - mlflow
