@@ -1,5 +1,5 @@
 transformers
-faiss
+faiss-cpu
 numpy
 sentence_transformers
-argparse
+mlflow
