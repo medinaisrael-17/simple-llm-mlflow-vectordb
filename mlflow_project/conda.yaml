@@ -3,7 +3,7 @@ name: simple-llm-env
 dependencies:
   - python=3.10
   - pip:
-      - tranformers
-      - sentence-tranformers
+      - transformers
+      - sentence-transformers
       - faiss-cpu
       - mlflow
